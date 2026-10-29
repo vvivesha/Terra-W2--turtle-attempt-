@@ -70,5 +70,8 @@ print(seconds + "!!!")
 
 print()
 print("Welcome, fellow Hack Clubber.")
-time.sleep
+time.sleep(1)
 
+print("/--")
+print("thank you for helping me fix the issue!!")
+print("                                     --/")
